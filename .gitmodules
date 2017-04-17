@@ -1,0 +1,12 @@
+[submodule "Term 1/CarND-T1-P1-LaneLines"]
+	path = Term 1/CarND-T1-P1-LaneLines
+	url = git@github.com:norman-thomas/CarND-T1-P1-LaneLines.git
+[submodule "Term 1/CarND-T1-P2-Traffic-Sign-Classifier-Project"]
+	path = Term 1/CarND-T1-P2-Traffic-Sign-Classifier-Project
+	url = git@github.com:norman-thomas/CarND-T1-P2-Traffic-Sign-Classifier-Project.git
+[submodule "Term 1/CarND-T1-P3-Behavioral-Cloning"]
+	path = Term 1/CarND-T1-P3-Behavioral-Cloning
+	url = git@github.com:norman-thomas/CarND-T1-P3-Behavioral-Cloning.git
+[submodule "Term 1/CarND-T1-P4-Advanced-Lane-Lines"]
+	path = Term 1/CarND-T1-P4-Advanced-Lane-Lines
+	url = git@github.com:norman-thomas/CarND-T1-P4-Advanced-Lane-Lines.git
