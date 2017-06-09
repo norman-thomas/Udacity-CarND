@@ -10,3 +10,6 @@
 [submodule "Term 1/CarND-T1-P4-Advanced-Lane-Lines"]
 	path = Term 1/CarND-T1-P4-Advanced-Lane-Lines
 	url = git@github.com:norman-thomas/CarND-T1-P4-Advanced-Lane-Lines.git
+[submodule "Term 1/CarND-T1-P5-Vehicle-Detection"]
+	path = Term 1/CarND-T1-P5-Vehicle-Detection
+	url = git@github.com:norman-thomas/CarND-T1-P5-Vehicle-Detection.git
