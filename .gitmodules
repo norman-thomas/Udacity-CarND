@@ -16,3 +16,6 @@
 [submodule "Term 2/CarND-T2-P2-Unscented-Kalman-Filter"]
 	path = Term 2/CarND-T2-P2-Unscented-Kalman-Filter
 	url = git@github.com:norman-thomas/CarND-T2-P2-Unscented-Kalman-Filter.git
+[submodule "Term 2/CarND-T2-P1-Extended-Kalman-Filter"]
+	path = Term 2/CarND-T2-P1-Extended-Kalman-Filter
+	url = git@github.com:norman-thomas/CarND-T2-P1-Extended-Kalman-Filter.git
