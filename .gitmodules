@@ -19,3 +19,12 @@
 [submodule "Term 2/CarND-T2-P1-Extended-Kalman-Filter"]
 	path = Term 2/CarND-T2-P1-Extended-Kalman-Filter
 	url = git@github.com:norman-thomas/CarND-T2-P1-Extended-Kalman-Filter.git
+[submodule "Term 2/CarND-T2-P3-Kidnapped-Vehicle"]
+	path = Term 2/CarND-T2-P3-Kidnapped-Vehicle
+	url = git@github.com:norman-thomas/CarND-T2-P3-Kidnapped-Vehicle.git
+[submodule "Term 2/CarND-T2-P4-PID-Control"]
+	path = Term 2/CarND-T2-P4-PID-Control
+	url = git@github.com:norman-thomas/CarND-T2-P4-PID-Control.git
+[submodule "Term 2/CarND-T2-P5-MPC"]
+	path = Term 2/CarND-T2-P5-MPC
+	url = git@github.com:norman-thomas/CarND-T2-P5-MPC.git
